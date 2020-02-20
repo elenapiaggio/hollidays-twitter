@@ -4,3 +4,5 @@
 
 Deploy link:
 https://sophiahelena.github.io/hollidays-twitter/
+
+![Screenshot](./img/screenshot.png "Screenshot")
