@@ -1,6 +1,6 @@
 # English class exercise
 # Theme: Social networking
-# Nivel: A
+# Level: A
 
 Deploy link:
 https://elenapiaggio.github.io/hollidays-twitter/
